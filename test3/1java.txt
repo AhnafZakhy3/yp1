@@ -1,0 +1,7 @@
+import java.util.Scanner : mengambil inputan dari / menggunakan keyboard
+
+String nama_variabel = Scanner.next.Line();
+int nama_variabel = Scanner.next.Int();
+
+System.out.println();
+System.out.print();

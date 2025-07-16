@@ -1,0 +1,273 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Perpus",
+            "request": "launch",
+            "mainClass": "Perpus",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "PerpusGUI",
+            "request": "launch",
+            "mainClass": "PerpusGUI",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "Programpintar",
+            "request": "launch",
+            "mainClass": "Programpintar",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "bilgenap",
+            "request": "launch",
+            "mainClass": "bilgenap",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "BilanganGenap",
+            "request": "launch",
+            "mainClass": "BilanganGenap",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "testgambar",
+            "request": "launch",
+            "mainClass": "testgambar",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "program2323",
+            "request": "launch",
+            "mainClass": "program2323",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "main99",
+            "request": "launch",
+            "mainClass": "main99",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "main2",
+            "request": "launch",
+            "mainClass": "main2",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "main1",
+            "request": "launch",
+            "mainClass": "main1",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "request": "attach",
+            "name": "Java",
+            "port": 5005,
+            "sourceRoots": []
+        },
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "pengulangan",
+            "request": "launch",
+            "mainClass": "pengulangan",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "testing",
+            "request": "launch",
+            "mainClass": "testing",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "menu",
+            "request": "launch",
+            "mainClass": "menu",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "bersarang2",
+            "request": "launch",
+            "mainClass": "bersarang2",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "malik",
+            "request": "launch",
+            "mainClass": "malik",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "BERSARANG",
+            "request": "launch",
+            "mainClass": "BERSARANG",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        },
+        {
+            "name": "(Windows) Attach",
+            "type": "cppvsdbg",
+            "request": "attach"
+        },
+        {
+            "name": "(Windows) Launch",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "enter program name, for example ${workspaceFolder}/a.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "gaji",
+            "request": "launch",
+            "mainClass": "gaji",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "Kalkulator",
+            "request": "launch",
+            "mainClass": "Kalkulator",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "Menghitung_RataRata",
+            "request": "launch",
+            "mainClass": "Menghitung_RataRata",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "MenghitungDiskon",
+            "request": "launch",
+            "mainClass": "MenghitungDiskon",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "VolumeBola",
+            "request": "launch",
+            "mainClass": "VolumeBola",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "Main4",
+            "request": "launch",
+            "mainClass": "Main4",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "Main2",
+            "request": "launch",
+            "mainClass": "Main2",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "Main1",
+            "request": "launch",
+            "mainClass": "Main1",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "Coding2_d71d228d"
+        },
+        {
+            "name": "C/C++: g++.exe build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\msys64\\ucrt64\\bin\\gdb.exe",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: g++.exe build active file"
+        }
+    ],
+    "version": "2.0.0"
+}
